@@ -1,0 +1,24 @@
+{
+"customer":[
+{
+    "name" : "Aditya Biswal",
+    "id": "123",
+    "address" : "christ bangalore",
+    "course" : "C++"
+},
+
+{
+    "name" : "Rachit Biswal",
+    "id": "124",
+    "address" : "christ bangalore",
+    "course" : "C++"
+},
+
+{
+    "name" : "Shipra Jha",
+    "id": "124",
+    "address" : "christ bangalore",
+    "course" : "C++"
+
+}]
+}
